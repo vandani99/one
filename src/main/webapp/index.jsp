@@ -6,6 +6,7 @@
         <h2 style="color: black; font-size: 70px;" align="center">THIS IS AUTOMATIC DEPLOYMENT</h2>
         <h2 style="color: black; font-size: 70px;" align="center"> HI ALL </h2>
         <h2 style="color: black; font-size: 60px;" align="center"> HI EVERYONE </h2>
+        <h2 style="color: red; font-size: 60px;" align="center"> HI GUYS ENJOYING  WEEKEND </h2>
         
 	
         
